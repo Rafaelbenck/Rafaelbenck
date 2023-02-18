@@ -18,53 +18,51 @@
 ### Languages and Tools 🛠
 
 <div style="display: inline_block"><br>
-<tabel>
-    <tr style="margin:13px;">
-        <td>
-            <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        </td>
-        <td>
-            <img align="center" alt="Vuejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
-        </td>
-        <td>
-            <img align="center" alt="Nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
-        </td>
-        <td>
-            <img align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">        
-        </td>
-        <td>
-            <img align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-        </td>
-        <td>
-            <img align="center" alt="bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-        </td>
-        <td>
-            <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-        </td>
-        <td>
-            <img align="center" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-        </td>
-        <td style="background-color: #fff;">
-            <img align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-        </td>
-        <td style="background-color: #fff;">
-            <img align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-        </td>
-        <td>
-            <img align="center" alt="Gitlab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-        </td>
-        <td style="background-color: #fff;">
-            <img align="center" alt="Github" height="50" width="60" src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-        </td>
-        <td>
-            <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-        </td>
-        <td>
-            <img align="center" alt="Jira" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
-        </td>
-    </tr>
-</tabel>
 
+<div style="margin:13px;">
+    <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Vuejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Nodejs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">        
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+</div>
+<div style="background-color: #fff; margin:13px;">
+    <img align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+</div>
+<div style="background-color: #fff; margin:13px;">
+    <img align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Gitlab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+</div>
+<div style="background-color: #fff; margin:13px;">
+    <img align="center" alt="Github" height="50" width="60" src="(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+<div style="margin:13px;">
+    <img align="center" alt="Jira" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+</div>
+
+  <img align="right" alt="Achou errado otário!" height="150" style="border-radius:70px;" src="https://tenor.com/pt-BR/view/falha-de-cobertura-choque-cultura-gif-10186824">
 </div>
 
 ## <br/>
