@@ -26,7 +26,6 @@
 - here you can see a little deeper my technologies worked ☕
 
 <div style="display: inline_block; margin:13px;"><br>
-- 👨‍💻 Currently working on web development technologies JavaScript, Vuejs, NodeJs, CSS etc.
 <img align="center" alt="html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Javascript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
