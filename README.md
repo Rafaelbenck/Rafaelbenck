@@ -1,5 +1,5 @@
 <h1 align="left">Hey welcome to my repository, I'm Rafael Benck software engineer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelbenck&color=white" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelbenck&color='white'" alt="Profile views" /> </p>
 
 - 🔥 Working with technology for 3 years and I see that there is a way to be surprised every day, I love it
 
