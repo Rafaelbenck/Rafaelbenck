@@ -4,7 +4,7 @@
 
 <body>
 
-<h1 align="left">Hey welcome to my repository, I'm Rafael Benck software engineer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Hey welcome to my repository 🤙, I'm Rafael Benck software engineer  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelbenck&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Working with technology for 3 years and I see that there is a way to be surprised every day, I love it
@@ -23,28 +23,29 @@
 
 ### Languages and Tools 🛠
 
-<div style="display: inline_block; margin:13px;"><br>
+- here you can see a little deeper my technologies worked ☕
 
+<div style="display: inline_block; margin:13px;"><br>
+- 👨‍💻 Currently working on web development technologies JavaScript, Vuejs, NodeJs, CSS etc.
+<img align="center" alt="html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+<img align="center" alt="CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Javascript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Vuejs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
 <img align="center" alt="Nodejs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+<img align="center" alt="React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 <img align="center" alt="Php" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">     
-<img align="center" alt="html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="bootstrap" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
-<img align="center" alt="CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="Sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-<img align="center" alt="Express" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
 <img align="center" alt="Bash" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-<img align="center" alt="Gitlab" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-<img align="center" alt="Github" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img align="center" alt="Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="Jira" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+<img align="center" alt="Gitlab" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+<img align="center" alt="Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Sass" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 
 </div>
 
 ## <br/>
 
-### Contact with me 📝
+### hey it will be a pleasure to meet you, Let's talk, I'm available at: 📝
 
 <br>
 <div> 
